@@ -73,4 +73,4 @@ function reiniciarJogo() {
 
 exibirMensagemInicial();
 
-console.log(`obrigado por jogar o nosso jogo do numero secreto`);
+console.log(`obrigado por jogar o nosso jogo do numero secreto.`);
